@@ -1,6 +1,6 @@
 # Chainctack docs chat bot
 
-Simple CLI implemenation of a docs specific AI assistant. This project guides you to build an AI assistant for the Chainstack documentation using LangChain and Activeloop.
+Simple CLI implementation of a docs specific AI assistant. This project guides you to build an AI assistant for the Chainstack documentation using LangChain and Activeloop.
 
 Read the article for an in depth guide:
 
